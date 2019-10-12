@@ -1,0 +1,60 @@
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\DataLayer.dll.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ServiceLayer\obj\Debug\ServiceLayer.pdb

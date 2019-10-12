@@ -1,0 +1,296 @@
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.rsp
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.rsp
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Console.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.rsp
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csprojAssemblyReference.cache
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CopyComplete
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.pdb
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.xml
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll.config
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Tigin\source\repos\ResourceAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.pdb
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.rsp
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.rsp
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.AppContext.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Console.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Compression.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Claims.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.ValueTuple.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.rsp
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.pdb
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.pdb
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll.config
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csprojAssemblyReference.cache
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CoreCompileInputs.cache
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CopyComplete
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.dll
+D:\ResourseAllocationWebApi\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.rsp
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.rsp
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.AppContext.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Console.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Compression.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Claims.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.ValueTuple.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.rsp
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.pdb
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll.config
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csprojAssemblyReference.cache
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CopyComplete
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.dll
+D:\ResourceAllocation App\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ResourceAllocationWebApi.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.exe.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csc.rsp
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.exe.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\csi.rsp
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.AppContext.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Console.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Compression.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Claims.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.ValueTuple.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.exe.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\vbc.rsp
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\ServiceLayer.dll.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\EntityFramework.SqlServer.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Newtonsoft.Json.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Net.Http.Formatting.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\System.Web.Http.WebHost.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.pdb
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\bin\DataLayer.dll.config
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csprojAssemblyReference.cache
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CoreCompileInputs.cache
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.csproj.CopyComplete
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.dll
+D:\ResourceAllocation\ResourseAllocationWebApi\ResourceAllocationWebApi\obj\Debug\ResourceAllocationWebApi.pdb
